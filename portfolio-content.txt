@@ -1,0 +1,435 @@
+BADRINAATH R — PORTFOLIO CONTENT
+=================================
+Generated for review: 2026-11-25 (updated after positioning upgrade)
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+PROFILE
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+Name         : Badrinaath R
+Title        : Generative AI Engineer
+Subtitle     : Full-Stack AI Engineer
+Tagline      : Building AI-powered applications that solve real
+               engineering problems.
+Location     : Chennai, India
+Email        : badrinaath145@gmail.com
+GitHub       : https://github.com/BadriNaathR
+LinkedIn     : https://linkedin.com/in/badrinaathr
+Resume       : /resume/Badrinaath_R_Resume.pdf
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+HERO SECTION
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+Availability : Open to opportunities
+
+Headline     : Badrinaath R
+
+Role         : Generative AI Engineer · Full-Stack AI Engineer
+
+Description  : Building AI-powered applications that solve real
+               engineering problems.
+
+CTAs         : Explore My Work | Get In Touch
+
+Social Links : GitHub | LinkedIn | Resume
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+OVERVIEW / SNAPSHOT
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+Section heading: Building production AI systems, not just prototypes.
+
+Bio paragraph 1:
+  AI and Full-Stack Engineer at Tata Consultancy Services with 2 years
+  of experience building enterprise Generative AI applications, knowledge
+  discovery platforms, and agentic retrieval pipelines — contributed
+  across both BFSI research and corporate AI initiatives.
+
+Bio paragraph 2:
+  Outside enterprise work, I build independently and compete in AI
+  hackathons — exploring workflow automation, applied LLM systems, and
+  practical AI architectures. Three hackathon awards including a First
+  Prize at the NVIDIA GSI Open Hackathon 2026.
+
+Stats:
+  2+   Years Experience
+  3    Hackathon Awards
+  150+ Teams Mentored
+  4    Certifications
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+FEATURED PROJECTS
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+Section intro: Enterprise AI applications, independent engineering
+               projects, and award-winning hackathon builds.
+
+──────────────────────────────────────────
+1. Know Your Enterprise
+──────────────────────────────────────────
+Category : Enterprise AI Application
+Status   : Production | Confidential
+Org      : Tata Consultancy Services
+
+Tagline  : Enterprise AI knowledge discovery platform supporting
+           delivery and leadership teams at TCS — built on hybrid RAG
+           and contextual LLM processing. Contributed as part of the
+           engineering team.
+
+Summary  : Know Your Enterprise is a production enterprise AI
+           application developed at TCS that enables structured
+           information discovery for delivery managers and ISU
+           leadership teams. I contributed to its RAG pipeline design,
+           LLM integration, and backend service development as part of
+           the engineering team.
+
+Tech Stack : Python, FastAPI, LLMs, Hybrid RAG, AI Agents, React, Angular
+
+Key Features:
+  - Hybrid RAG pipeline combining dense and sparse retrieval for
+    high-accuracy enterprise knowledge retrieval
+  - Contextual LLM processing that synthesizes multi-source
+    organizational data into structured responses
+  - Agent workflows integrating multi-source retrieval and enterprise
+    backend services
+  - React and Angular interfaces for delivery and leadership
+    operational queries
+
+──────────────────────────────────────────
+2. FlowMind
+──────────────────────────────────────────
+Category : Independent Project
+Status   : In Development (Prototype)
+Org      : Independent
+
+Tagline  : Independent full-stack AI workflow automation platform —
+           converts natural-language instructions into structured,
+           executable workflow definitions.
+
+Summary  : FlowMind is an independent full-stack AI platform I am
+           building that lets users describe automation workflows in
+           plain language and executes them as structured, multi-step
+           processes. It is a prototype in active development — not a
+           production system.
+
+           All third-party integrations (Gmail, Slack, Google Sheets,
+           Notion) are simulated adapters — no live external connections
+           exist in the current build.
+
+Tech Stack : Python, FastAPI, LangChain, React, TypeScript, SQLAlchemy,
+             PostgreSQL, Celery, Redis, SSE
+
+Key Features:
+  - LLM-based workflow parser (LangChain) converting natural-language
+    instructions into structured workflow JSON
+  - FastAPI REST endpoints for workflow creation, retrieval, and
+    lifecycle management
+  - PostgreSQL and SQLAlchemy persistence for workflow state and
+    execution history
+  - Celery and Redis for asynchronous, non-blocking workflow execution
+  - Server-Sent Events (SSE) for real-time per-step execution log
+    streaming to the frontend
+  - React and TypeScript interface for workflow authoring, step
+    inspection, and log monitoring
+  - Simulated adapters for Gmail, Slack, Google Sheets, and Notion
+    (no live API connections)
+
+──────────────────────────────────────────
+3. LifeShield AI
+──────────────────────────────────────────
+Category : Hackathon Project
+Status   : National Winner
+Org      : NVIDIA GSI Open Hackathon 2026
+
+Tagline  : Evidence-aware digital twin for catastrophe intelligence —
+           National Winner at NVIDIA GSI Open Hackathon 2026, competing
+           against teams from EY, Infosys, HCL, TCS, and other major
+           NVIDIA partner companies across India.
+
+Summary  : LifeShield AI is an evidence-aware digital twin for
+           catastrophe intelligence, built with Team Cognitive Core at
+           the NVIDIA GSI Open Hackathon 2026. National Winner —
+           selected among 20 finalists from 200+ competing teams across
+           NVIDIA's partner ecosystem in India, including EY, Infosys,
+           HCL, and TCS (which fielded 250+ teams alone).
+
+Tech Stack : LLMs, AI Agents, Digital Twin, Evidence Graphs
+
+Key Features:
+  - Evidence-aware AI reasoning for catastrophe scenario intelligence
+  - Digital twin modeling to simulate and analyze real-world conditions
+  - Agent-based architecture for structured evidence evaluation
+  - National Winner — 1st Prize from 200+ teams at NVIDIA GSI Open
+    Hackathon 2026, Bengaluru finals
+  - Competed against teams from EY, Infosys, HCL, TCS (250+ teams
+    alone), and other NVIDIA partner companies
+  - Awarded NVIDIA Jetson Orin Nano Developer Kit
+
+──────────────────────────────────────────
+4. D³ — Detect, Decide, Deliver
+──────────────────────────────────────────
+Category : Hackathon Project
+Status   : National Runner-up
+Org      : TCS AI Friday Hackathon – Season 2
+
+Tagline  : AI-driven credit card dispute intelligence using
+           evidence-aware digital twins and agentic investigation —
+           National Runner-up, TCS AI Friday Hackathon Season 2.
+
+Summary  : D³ is an AI-driven credit card dispute intelligence solution
+           recognized at the National Finals of TCS AI Friday Hackathon
+           Season 2. Designed around evidence-aware digital twins,
+           evidence graphs, agentic investigation, and incremental
+           decision re-evaluation.
+
+Tech Stack : LLMs, AI Agents, Evidence Graphs, Agentic Workflows
+
+Key Features:
+  - Evidence-aware digital twin modeling for dispute scenarios
+  - Evidence graph construction for structured reasoning
+  - Agentic investigation workflow for autonomous evidence evaluation
+  - Incremental decision re-evaluation as new evidence is surfaced
+  - National Runner-up at TCS AI Friday Hackathon Season 2
+
+──────────────────────────────────────────
+5. HARMONY-SAMANVAY
+──────────────────────────────────────────
+Category : Hackathon Project
+Status   : Regional Winner
+Org      : TCS AI Friday Hackathon – Season 2
+
+Tagline  : Human-AI collaboration operating model for intelligent task
+           allocation and agent orchestration — Chennai Regional Winner,
+           TCS AI Friday Hackathon Season 2.
+
+Summary  : HARMONY-SAMANVAY is a human-AI collaboration operating model
+           focused on intelligent task allocation, agent orchestration,
+           structured handovers, and governance.
+
+Tech Stack : LLMs, AI Agents, Agent Orchestration, Task Automation
+
+Key Features:
+  - Intelligent task allocation distributing work between human and
+    AI participants
+  - Agent orchestration layer managing multi-agent collaboration
+  - Structured handover protocols for clean human-AI transitions
+  - Governance framework for oversight and auditability
+  - Chennai Regional Winner at TCS AI Friday Hackathon Season 2
+
+[REMOVED from featured projects]
+  - Requirement-to-SPEC/DSL (internal TCS tooling)
+  - Enterprise AI Agent Playground (internal TCS platform)
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+ENGINEERING STACK
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+Subtitle: Tools and technologies I use to design, build, and ship
+          production-grade AI systems.
+
+Generative AI (core):
+  LLMs, RAG, Hybrid RAG, AI Agents, Agentic Workflows,
+  Prompt Engineering, Tool Calling, MCP
+
+AI Frameworks (core):
+  LangChain, Azure OpenAI, Chroma, FAISS
+
+Backend:
+  Python, FastAPI, REST APIs, SQLAlchemy, Pydantic, Celery, Node.js
+
+Frontend:
+  React, Angular, TypeScript, JavaScript, Tailwind CSS
+
+Databases & Infrastructure:
+  PostgreSQL, MongoDB, Redis, Docker Compose
+
+Developer Tools:
+  Git, GitHub, Postman, Codex CLI, Gemini CLI
+
+[REMOVED: SSE from Backend — not listed as a core skill]
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+PROFESSIONAL EXPERIENCE
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+──────────────────────────────────────────
+Tata Consultancy Services (TCS)
+System Engineer (Prime) | January 2025 – Present [Current]
+──────────────────────────────────────────
+
+  > Corporate Delivery Management | April 2026 – Present
+
+  - Part of the TCS Corporate Delivery Management team, contributing
+    to the management and coordination of AI initiatives across TCS.
+  - Collaborating with stakeholders, technical teams, and delivery
+    leadership on enterprise AI initiatives.
+  - Involved in AI innovation and cross-business AI adoption
+    initiatives.
+
+  > BFSI – SEAL Research & Innovation | January 2025 – March 2026
+
+  - Developed enterprise GenAI proof-of-concepts and applications
+    using Python, FastAPI, LLMs, and modern frontend technologies.
+  - Explored and implemented RAG-based knowledge retrieval and LLM
+    integrations.
+  - Contributed to internal AI innovation initiatives.
+  - Collaborated with technical architects, engineering teams, and
+    business stakeholders.
+
+──────────────────────────────────────────
+Unlimited Innovations Pvt. Ltd.
+Software Engineer Trainee | June 2024 – December 2024
+──────────────────────────────────────────
+
+  - Developed full-stack enterprise web applications using React,
+    TypeScript, .NET, and MERN stack technologies.
+  - Led Phase 1 feature development for Power Pulse, implementing
+    custom SDK authentication, SQL query optimization, and interactive
+    Power BI visualizations.
+  - Built an Asset Management Portal with dynamic forms, global search,
+    and CRUD workflows to streamline internal IT asset tracking.
+  - Developed a reusable React Starter Kit integrated with Diligence
+    Fabric Client SDK to standardize project setup and accelerate
+    developer onboarding.
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+ACHIEVEMENTS
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+Subtitle: Competitive wins and leadership contributions in AI
+          hackathons and enterprise innovation.
+
+──────────────────────────────────────────
+1. National Winner — NVIDIA GSI Open Hackathon 2026
+   Project: LifeShield AI [Featured]
+──────────────────────────────────────────
+Won First Prize at the NVIDIA GSI Open Hackathon 2026 — a
+national-level competition across NVIDIA's partner ecosystem in India,
+including teams from EY, Infosys, HCL, TCS (250+ teams alone), and
+other major companies. Selected among 20 finalists from 200+ teams at
+the NVIDIA Bengaluru finals.
+
+Highlight: Awarded NVIDIA Jetson Orin Nano Developer Kit
+
+──────────────────────────────────────────
+2. National Runner-up — TCS AI Friday Hackathon – Season 2
+   Project: D³ (Detect – Decide – Deliver) [Featured]
+──────────────────────────────────────────
+Recognized at the National Finals for D³, an AI-driven credit card
+dispute intelligence solution designed around evidence-aware digital
+twins, evidence graphs, agentic investigation, and incremental
+decision re-evaluation.
+
+──────────────────────────────────────────
+3. Chennai Regional Winner — TCS AI Friday Hackathon – Season 2
+   Project: HARMONY-SAMANVAY
+──────────────────────────────────────────
+Built HARMONY-SAMANVAY, a human-AI collaboration operating model
+focused on intelligent task allocation, agent orchestration, handovers,
+and governance.
+
+──────────────────────────────────────────
+4. Technical Advisor — TCS AI Friday Hackathon
+   Project: Advisory
+──────────────────────────────────────────
+Provided architectural and implementation guidance to 150+ participating
+teams on Generative AI design, RAG pipelines, agentic workflows, and
+enterprise solution development.
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+CERTIFICATIONS
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+1. Claude Architecture Professional — Anthropic
+2. Claude Architecture Foundation   — Anthropic
+3. Claude Developer Foundation      — Anthropic
+4. Oracle AI Professional Certification — Oracle
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+CONTACT
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+Section heading : Get in Touch
+
+Description : Open to AI engineering roles, collaborative projects, and
+              conversations about building intelligent systems. Reach
+              out through any of these channels.
+
+Email    : badrinaath145@gmail.com
+LinkedIn : linkedin.com/in/badrinaathr
+GitHub   : github.com/BadriNaathR
+Location : Chennai, India
+
+Currently open to:
+  · Generative AI Engineering roles
+  · Enterprise AI consulting & architecture
+  · AI research collaborations
+  · Hackathon partnerships
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+FOOTER
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+© 2026 Badrinaath R. Built with care.
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+HERO SVG — AI ARCHITECTURE NODES
+(interactive labels shown on hover)
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+Diagram title  : ai-architecture.ts
+
+Node 1 — Input Sources
+  Sub-label    : Docs · APIs · Data
+  Hover desc   : Ingests documents, REST APIs, and enterprise data as
+                 the AI system foundation.
+
+Node 2 — RAG Pipeline
+  Sub-label    : Embed · Search · Rank
+  Hover desc   : Chunks, embeds, and retrieves relevant context via
+                 vector search and reranking.
+
+Node 3 — AI Orchestration Engine [CENTER]
+  Sub-label    : Engine
+  Details      : LLM Reasoning / Agent Planning / Context · Memory
+  Hover desc   : Central engine: LLM reasoning, agent planning, context
+                 window, and memory.
+
+Node 4 — MCP & Tools
+  Sub-label    : APIs · Tool Calling
+  Hover desc   : Bridges external systems via tool calling and the Model
+                 Context Protocol.
+
+Node 5 — Workflow Exec
+  Sub-label    : Task Orchestration
+  Hover desc   : Coordinates multi-step agent execution and complex task
+                 orchestration pipelines.
+
+Node 6 — Intelligent Output
+  Sub-label    : Responses · Streaming
+  Hover desc   : Delivers structured responses, real-time streaming
+                 output, and evaluation hooks.
+
+Default prompt : → hover any node to explore the architecture
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+CHANGELOG (this revision)
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+Stats         : Removed "300+ AI Agents Built"; added "3 Hackathon
+                Awards" and "4 Certifications"
+Hero desc     : Updated to tagline-style copy
+Snapshot bio  : Removed BFSI-only framing; added hackathon context
+Projects      : Removed Requirement-to-SPEC/DSL and Enterprise AI Agent
+                Playground; added LifeShield AI, D³, HARMONY-SAMANVAY;
+                refined Know Your Enterprise (team framing) and FlowMind
+                (prototype disclaimer)
+NVIDIA entry  : Rank updated to "National Winner"; description now
+                reflects national scope, 250+ TCS teams, partner
+                companies (EY, Infosys, HCL, TCS, others)
+Skills        : Removed SSE from Backend
+Experience    : TCS now shows two sub-roles (Corporate Delivery
+                Management + BFSI SEAL R&I) under one entry
+Footer year   : Updated to 2026
