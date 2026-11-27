@@ -5,7 +5,7 @@ export function Certifications() {
   return (
     <section className="certs" id="certifications">
       <div className="wrap">
-        <div className="sec-label">06 &nbsp; Certifications</div>
+        <div className="sec-label">07 &nbsp; Certifications</div>
         <h2 className="certs-h2">Certifications</h2>
         <div className="certs-grid">
           {certifications.map((cert, i) => (
