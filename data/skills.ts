@@ -5,27 +5,27 @@ export interface SkillCategory {
 
 export const skillCategories: SkillCategory[] = [
   {
-    label: "Generative AI",
-    skills: ["LLMs", "RAG", "Hybrid RAG", "AI Agents", "Agentic Workflows", "Prompt Engineering", "Tool Calling", "MCP"],
+    label: "Languages",
+    skills: ["Python", "TypeScript", "JavaScript", "SQL"],
   },
   {
-    label: "AI Frameworks",
-    skills: ["LangChain", "Azure OpenAI", "Chroma", "FAISS"],
+    label: "Generative AI & Agentic Systems",
+    skills: ["LLMs", "RAG", "AI Agents", "Agentic Workflows", "Prompt Engineering", "Tool Calling"],
   },
   {
-    label: "Backend",
-    skills: ["Python", "FastAPI", "REST APIs", "SQLAlchemy", "Pydantic", "Celery", "Node.js"],
+    label: "AI Frameworks & Gateways",
+    skills: ["LangChain", "LangGraph", "LiteLLM", "Azure OpenAI", "OpenAI APIs"],
+  },
+  {
+    label: "Backend & APIs",
+    skills: ["FastAPI", "REST APIs", "Node.js", "SQLAlchemy", "Pydantic", "SSE"],
   },
   {
     label: "Frontend",
-    skills: ["React", "Angular", "TypeScript", "JavaScript", "Tailwind CSS"],
+    skills: ["React", "Angular", "Tailwind CSS"],
   },
   {
-    label: "Databases & Infrastructure",
-    skills: ["PostgreSQL", "MongoDB", "Redis", "Docker Compose"],
-  },
-  {
-    label: "Developer Tools",
-    skills: ["Git", "GitHub", "Postman", "Codex CLI", "Gemini CLI"],
+    label: "Databases & DevOps Tools",
+    skills: ["PostgreSQL", "MongoDB", "Neo4j", "Docker Compose", "Git", "GitHub", "Postman"],
   },
 ]
