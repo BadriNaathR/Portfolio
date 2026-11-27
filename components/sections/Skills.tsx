@@ -1,18 +1,18 @@
 "use client"
 
 import { motion, useReducedMotion, type Variants } from "framer-motion"
-import { Brain, Layers, Server, Monitor, Database, Wrench } from "lucide-react"
+import { Brain, Layers, Server, Monitor, Database, Code2 } from "lucide-react"
 import type { LucideIcon } from "lucide-react"
 import { RevealOnScroll } from "@/components/ui/RevealOnScroll"
 import { skillCategories } from "@/data/skills"
 
 const categoryMeta: Record<string, { icon: LucideIcon; accent: boolean }> = {
-  "Generative AI":              { icon: Brain,    accent: true  },
-  "AI Frameworks":              { icon: Layers,   accent: true  },
-  "Backend":                    { icon: Server,   accent: false },
-  "Frontend":                   { icon: Monitor,  accent: false },
-  "Databases & Infrastructure": { icon: Database, accent: false },
-  "Developer Tools":            { icon: Wrench,   accent: false },
+  "Languages":                    { icon: Code2,    accent: false },
+  "Generative AI & Agentic Systems": { icon: Brain, accent: true  },
+  "AI Frameworks & Gateways":     { icon: Layers,   accent: true  },
+  "Backend & APIs":               { icon: Server,   accent: false },
+  "Frontend":                     { icon: Monitor,  accent: false },
+  "Databases & DevOps Tools":     { icon: Database, accent: false },
 }
 
 export function Skills() {
