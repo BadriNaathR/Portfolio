@@ -8,7 +8,7 @@ export const profile = {
     "Building AI-powered applications that solve real engineering problems.",
   bio: "AI Engineer with 2+ years of software engineering experience, focused on Generative AI applications, retrieval-augmented systems, and LLM-integrated workflows. Experienced in Python, FastAPI, LLM integration, and full-stack application development using React and Angular. Contributed to enterprise AI solutions at TCS and independently developing AI-powered workflow automation systems.",
   location: "Chennai, India",
-  email: "badrinaath145@gmail.com",
+  email: "badrinaath.r13@gmail.com",
   github: "https://github.com/BadriNaathR",
   linkedin: "https://linkedin.com/in/badrinaathr",
   resumePath: "/resume/Badrinaath_R_Resume.pdf",
